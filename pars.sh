@@ -89,6 +89,7 @@ while true; do
             cd /etc/asterisk/
             echo "[callblaster]" >> extensions.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions.conf
+	    echo "" >> extensions_custom.conf
             echo "[callblaster]" >> extensions_custom.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions_custom.conf
             sleep .5
