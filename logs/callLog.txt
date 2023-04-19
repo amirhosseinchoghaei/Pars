@@ -1,0 +1,733 @@
+2021-03-11T08:26:16+00:00 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615451176numbers-sample.csv
+Thu, 11 Mar 2021 08:26:22 +0000 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T08:26:51+00:00 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615451211numbers-sample.csv
+Thu, 11 Mar 2021 08:26:56 +0000 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T08:27:59+00:00 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615451279numbers-sample.csv
+Thu, 11 Mar 2021 08:28:03 +0000 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 08:28:04 +0000 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T03:32:26-05:00 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615451546numbers-sample.csv
+Thu, 11 Mar 2021 03:32:29 -0500 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 03:32:31 -0500 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:10:22+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615452022numbers-sample.csv
+Thu, 11 Mar 2021 12:10:25 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:11:16+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615452076numbers-sample.csv
+Thu, 11 Mar 2021 12:21:40 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:35:23+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615453523numbers-sample.csv
+Thu, 11 Mar 2021 12:35:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:36:58+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615453618numbers-sample.csv
+Thu, 11 Mar 2021 12:37:01 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:37:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615453671numbers-sample.csv
+Thu, 11 Mar 2021 12:43:14 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 12:43:16 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T12:44:19+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615454059numbers-sample.csv
+2021-03-11T12:47:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615454258numbers-sample.csv
+2021-03-11T12:48:09+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615454289numbers-sample.csv
+2021-03-11T12:49:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615454355numbers-sample.csv
+2021-03-11T12:56:30+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615454789numbers-sample.csv
+Thu, 11 Mar 2021 12:56:33 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 12:56:35 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:04:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455281numbers-sample.csv
+2021-03-11T13:05:09+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455309numbers-sample.csv
+2021-03-11T13:06:33+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455393numbers-sample.csv
+Thu, 11 Mar 2021 13:06:36 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:07:08+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455428numbers-sample.csv
+2021-03-11T13:08:04+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455483numbers-sample.csv
+2021-03-11T13:08:40+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455520numbers-sample.csv
+2021-03-11T13:09:14+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455554numbers-sample.csv
+2021-03-11T13:10:04+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455604numbers-sample.csv
+ -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455641numbers-sample.csv
+2021-03-11T13:11:04+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615455663numbers-sample.csv
+Thu, 11 Mar 2021 13:11:06 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:17:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615456023numbers-sample.csv
+2021-03-11T13:17:04+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615456023numbers-sample.csv
+2021-03-11T13:30:48+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615456848numbers-sample.csv
+2021-03-11T13:30:49+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615456848numbers-sample.csv
+Thu, 11 Mar 2021 13:30:51 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 13:30:54 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:35:04+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615457103numbers-sample.csv
+2021-03-11T13:35:05+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615457103numbers-sample.csv
+Thu, 11 Mar 2021 13:35:07 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 13:35:10 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 13:36:10 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:46:29+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615457789numbers-sample.csv
+2021-03-11T13:46:29+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615457789numbers-sample.csv
+Thu, 11 Mar 2021 13:46:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 13:46:38 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:48:54+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615457934numbers-sample.csv
+2021-03-11T13:48:54+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615457934numbers-sample.csv
+Thu, 11 Mar 2021 13:49:04 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:50:35+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458035numbers-sample.csv
+2021-03-11T13:50:35+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458035numbers-sample.csv
+2021-03-11T13:51:00+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458059numbers-sample.csv
+2021-03-11T13:51:00+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458059numbers-sample.csv
+Thu, 11 Mar 2021 13:51:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:51:40+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458100numbers-sample.csv
+2021-03-11T13:51:40+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458100numbers-sample.csv
+Thu, 11 Mar 2021 13:51:42 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:53:19+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458199numbers-sample.csv
+2021-03-11T13:53:19+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458199numbers-sample.csv
+Thu, 11 Mar 2021 13:53:28 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:54:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458243numbers-sample.csv
+2021-03-11T13:54:03+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458243numbers-sample.csv
+Thu, 11 Mar 2021 13:54:31 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T13:56:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615458391numbers-sample.csv
+2021-03-11T13:56:31+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615458391numbers-sample.csv
+2021-03-11T14:38:59+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615460939numbers-sample.csv
+2021-03-11T14:39:00+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615460939numbers-sample.csv
+2021-03-11T14:39:01+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615460939numbers-sample.csv
+Thu, 11 Mar 2021 14:39:11 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:40:14 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:41:10+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461070numbers-sample.csv
+2021-03-11T14:41:11+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615461070numbers-sample.csv
+Thu, 11 Mar 2021 14:41:13 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:41:21 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:42:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461161numbers-sample.csv
+2021-03-11T14:42:42+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615461161numbers-sample.csv
+Thu, 11 Mar 2021 14:42:47 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:42:51 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:43:25 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:43:28 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:43:47+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461227numbers-sample.csv
+2021-03-11T14:43:48+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615461227numbers-sample.csv
+Thu, 11 Mar 2021 14:43:52 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:43:54 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:44:09 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:44:11 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:44:32+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461272numbers-sample.csv
+2021-03-11T14:44:33+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615461272numbers-sample.csv
+Thu, 11 Mar 2021 14:44:34 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:44:37 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:44:56 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:44:58 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:45:47+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461347numbers-sample.csv
+2021-03-11T14:45:48+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615461347numbers-sample.csv
+Thu, 11 Mar 2021 14:45:51 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:46:12 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:46:35+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461395numbers-sample.csv
+2021-03-11T14:46:36+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615461395numbers-sample.csv
+Thu, 11 Mar 2021 14:46:38 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:46:42 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:46:59 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:47:03 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:47:26+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461446numbers-sample.csv
+2021-03-11T14:47:27+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615461446numbers-sample.csv
+Thu, 11 Mar 2021 14:47:29 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:47:33 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:47:46 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:47:50 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:48:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461521numbers-sample.csv
+2021-03-11T14:48:42+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615461521numbers-sample.csv
+Thu, 11 Mar 2021 14:48:44 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:48:50 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 14:49:00 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 14:49:01 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:49:53+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461593numbers-sample.csv
+Thu, 11 Mar 2021 14:49:55 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 14:49:57 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T14:51:57+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615461717numbers-sample.csv
+Thu, 11 Mar 2021 14:51:59 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 14:52:38 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T16:47:53+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615468673numbers-sample.csv
+Thu, 11 Mar 2021 16:47:58 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T16:48:40+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615468720numbers-sample.csv
+2021-03-11T16:48:41+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615468720numbers-sample.csv
+Thu, 11 Mar 2021 16:48:44 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 16:48:47 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T17:18:37+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615470517numbers-sample.csv
+2021-03-11T17:18:38+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615470517numbers-sample.csv
+Thu, 11 Mar 2021 17:18:40 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 17:18:42 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T17:24:34+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615470874numbers-sample.csv
+2021-03-11T17:24:35+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615470874numbers-sample.csv
+2021-03-11T19:42:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615479165numbers-sample.csv
+2021-03-11T19:42:47+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615479165numbers-sample.csv
+Thu, 11 Mar 2021 19:42:49 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 19:42:59 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T19:43:11+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615479191numbers-sample.csv
+2021-03-11T19:43:12+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615479191numbers-sample.csv
+Thu, 11 Mar 2021 19:43:16 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 19:43:25 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T20:01:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615480306numbers-sample.csv
+2021-03-11T20:01:47+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615480306numbers-sample.csv
+Thu, 11 Mar 2021 20:01:49 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:01:59 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T20:02:12+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615480332numbers-sample.csv
+2021-03-11T20:02:13+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615480332numbers-sample.csv
+Thu, 11 Mar 2021 20:02:16 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:02:18 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:02:21 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:02:26 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T20:42:28+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615482748numbers-sample.csv
+2021-03-11T20:42:29+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615482748numbers-sample.csv
+Thu, 11 Mar 2021 20:42:37 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 20:42:54 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T20:44:08+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615482847numbers-sample.csv
+2021-03-11T20:44:09+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615482847numbers-sample.csv
+Thu, 11 Mar 2021 20:44:13 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:44:19 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 20:44:23 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T20:45:10+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615482910numbers-sample.csv
+2021-03-11T20:45:11+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615482910numbers-sample.csv
+Thu, 11 Mar 2021 20:45:15 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:45:21 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 20:45:25 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T20:46:33+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615482993numbers-sample.csv
+2021-03-11T20:46:34+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615482993numbers-sample.csv
+Thu, 11 Mar 2021 20:46:40 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 20:46:42 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:46:52 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 20:46:57 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-11T21:12:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615484551numbers-sample.csv
+2021-03-11T21:12:31+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615484551numbers-sample.csv
+Thu, 11 Mar 2021 21:12:36 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 21:12:46 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-11T22:04:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615487655numbers-sample.csv
+2021-03-11T22:04:15+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615487655numbers-sample.csv
+Thu, 11 Mar 2021 22:04:22 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 11 Mar 2021 22:04:23 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 22:04:27 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 11 Mar 2021 22:04:39 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T00:00:36+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615494636numbers-sample.csv
+2021-03-12T00:00:36+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615494636numbers-sample.csv
+Fri, 12 Mar 2021 00:00:41 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 00:00:42 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 00:00:50 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 00:00:59 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T13:12:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615542166numbers-sample.csv
+2021-03-12T13:12:46+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615542166numbers-sample.csv
+Fri, 12 Mar 2021 13:12:51 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 13:12:56 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 13:13:01 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 13:13:13 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:06:16+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615556176numbers-sample.csv
+2021-03-12T17:06:16+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615556176numbers-sample.csv
+Fri, 12 Mar 2021 17:06:23 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:06:25 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:06:35 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:06:40 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:24:13+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557253numbers-sample.csv
+2021-03-12T17:24:13+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557253numbers-sample.csv
+2021-03-12T17:24:36+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557276numbers-sample.csv
+2021-03-12T17:24:36+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557276numbers-sample.csv
+2021-03-12T17:31:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557706numbers-sample.csv
+2021-03-12T17:31:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557706numbers-sample.csv
+2021-03-12T17:31:47+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557706numbers-sample.csv
+2021-03-12T17:31:48+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557706numbers-sample.csv
+Fri, 12 Mar 2021 17:31:48 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:31:48 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:31:50 +0330 -- User pressed -1 -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:31:58 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:32:05 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:32:08 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T17:33:25+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557805numbers-sample.csv
+2021-03-12T17:33:25+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557805numbers-sample.csv
+2021-03-12T17:33:26+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557805numbers-sample.csv
+2021-03-12T17:33:26+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557805numbers-sample.csv
+2021-03-12T17:34:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557855numbers-sample.csv
+2021-03-12T17:34:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557855numbers-sample.csv
+2021-03-12T17:34:16+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557855numbers-sample.csv
+2021-03-12T17:34:16+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557855numbers-sample.csv
+Fri, 12 Mar 2021 17:34:16 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:34:18 +0330 -- User pressed -1 -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:34:25 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:34:29 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:35:55+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557955numbers-sample.csv
+2021-03-12T17:35:57+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557955numbers-sample.csv
+Fri, 12 Mar 2021 17:36:04 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T17:36:35+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615557995numbers-sample.csv
+Fri, 12 Mar 2021 17:36:41 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:36:51 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T17:36:55+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615557995numbers-sample.csv
+Fri, 12 Mar 2021 17:37:02 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:37:19 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:48:06+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+2021-03-12T17:48:33+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+2021-03-12T17:49:00+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+2021-03-12T17:49:27+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+Fri, 12 Mar 2021 17:49:35 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers87
+Fri, 12 Mar 2021 17:49:35 +0330 -- User pressed -1 -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers87
+2021-03-12T17:49:54+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+Fri, 12 Mar 2021 17:50:03 +0330 -- Call in progress -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers88
+Fri, 12 Mar 2021 17:50:03 +0330 -- User pressed -1 -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers88
+2021-03-12T17:50:21+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558686numbers-sample.csv
+Fri, 12 Mar 2021 17:50:27 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers89
+Fri, 12 Mar 2021 17:50:27 +0330 -- User pressed -1 -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers89
+2021-03-12T17:52:22+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+Fri, 12 Mar 2021 17:52:25 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 17:52:35 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T17:52:49+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+Fri, 12 Mar 2021 17:52:58 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:53:16+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+Fri, 12 Mar 2021 17:53:25 +0330 -- Call in progress -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 17:53:43 +0330 -- User pressed  -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:53:43+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+Fri, 12 Mar 2021 17:53:53 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:54:10+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+Fri, 12 Mar 2021 17:54:10 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:54:37+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615558942numbers-sample.csv
+2021-03-12T17:58:42+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+Fri, 12 Mar 2021 17:58:47 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T17:59:17+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+Fri, 12 Mar 2021 17:59:29 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T17:59:52+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+Fri, 12 Mar 2021 18:00:03 +0330 -- Call in progress -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:00:27+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+2021-03-12T18:01:02+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+Fri, 12 Mar 2021 18:01:13 +0330 -- Call in progress -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:01:37+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615559322numbers-sample.csv
+Fri, 12 Mar 2021 18:01:51 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:16:57+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+Fri, 12 Mar 2021 18:17:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 18:17:05 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T18:17:32+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+Fri, 12 Mar 2021 18:17:38 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 18:17:55 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:18:07+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+Fri, 12 Mar 2021 18:18:22 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 18:18:39 +0330 -- User pressed  -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:18:42+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+2021-03-12T18:19:17+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+Fri, 12 Mar 2021 18:19:29 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 18:19:47 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T18:19:52+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615560417numbers-sample.csv
+2021-03-12T19:29:19+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+Fri, 12 Mar 2021 19:29:23 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 12 Mar 2021 19:29:27 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-03-12T19:29:54+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+Fri, 12 Mar 2021 19:29:57 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T19:30:29+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+Fri, 12 Mar 2021 19:30:42 +0330 -- Call in progress -- Number:511  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T19:31:04+03:30 -- Call file to 1511 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+2021-03-12T19:31:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+Fri, 12 Mar 2021 19:31:49 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T19:32:14+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615564759numbers-sample.csv
+2021-03-12T21:04:53+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570493numbers-sample.csv
+Fri, 12 Mar 2021 21:05:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:05:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570493numbers-sample.csv
+2021-03-12T21:05:13+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570493numbers-sample.csv
+Fri, 12 Mar 2021 21:05:17 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:05:20 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:05:23+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570493numbers-sample.csv
+Fri, 12 Mar 2021 21:05:29 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:05:46 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:01+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:11+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:20 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:21+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:27 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:34 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:43 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:08:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:08:53 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:09:00 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:01+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:05 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:09:10 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:11+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:12 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:21+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:22 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:09:23 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:09:29 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:09:39 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:49 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:09:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:09:56 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:10:01+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:10:07 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:10:11+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:10:13 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:10:15 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-12T21:10:21+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615570681numbers-sample.csv
+Fri, 12 Mar 2021 21:10:24 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:10:27 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:10:32 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Fri, 12 Mar 2021 21:10:44 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-13T21:11:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+Sat, 13 Mar 2021 21:11:43 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-13T21:11:48+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+Sat, 13 Mar 2021 21:11:50 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-13T21:11:58+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:08+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:28+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:48+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:12:58+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:08+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:28+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:48+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-13T21:13:58+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615657298numbers-sample.csv
+2021-03-14T02:36:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+2021-03-14T02:36:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+2021-03-14T02:37:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:37:05 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:37:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:37:17 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:37:27+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:37:34 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Sun, 14 Mar 2021 02:37:37 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:37:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:37:45 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:37:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+2021-03-14T02:38:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+2021-03-14T02:38:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:38:17 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:38:27+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:38:34 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Sun, 14 Mar 2021 02:38:36 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:38:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:38:41 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:38:51+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:38:52 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Sun, 14 Mar 2021 02:38:53 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:39:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:39:06 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:39:15+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:39:17 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:39:27+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615676799numbers-sample.csv
+Sun, 14 Mar 2021 02:39:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T02:59:28+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615678168numbers-sample.csv
+Sun, 14 Mar 2021 02:59:31 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Sun, 14 Mar 2021 02:59:36 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T19:26:08+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615737368numbers-sample.csv
+Sun, 14 Mar 2021 19:26:11 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T19:44:55+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615738495numbers-sample.csv
+Sun, 14 Mar 2021 19:44:59 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T19:55:23+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615739123numbers-sample.csv
+Sun, 14 Mar 2021 19:55:30 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T19:57:05+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615739225numbers-sample.csv
+Sun, 14 Mar 2021 19:57:07 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T21:24:53+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615744493numbers-sample.csv
+Sun, 14 Mar 2021 21:24:58 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-14T22:38:52+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615748931numbers-sample.csv
+Sun, 14 Mar 2021 22:38:56 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Sun, 14 Mar 2021 22:39:13 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T14:07:34+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615804654numbers-sample.csv
+2021-03-15T14:08:03+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615804682numbers-sample.csv
+Mon, 15 Mar 2021 14:08:08 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Mon, 15 Mar 2021 14:08:12 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T20:55:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615829118numbers-sample.csv
+Mon, 15 Mar 2021 20:55:21 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:08:06+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615829886numbers-sample.csv
+Mon, 15 Mar 2021 21:08:11 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:24:59+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615830899numbers-sample.csv
+Mon, 15 Mar 2021 21:25:05 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Mon, 15 Mar 2021 21:25:12 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:27:55+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615831075numbers-sample.csv
+Mon, 15 Mar 2021 21:28:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:28:46+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615831126numbers-sample.csv
+Mon, 15 Mar 2021 21:28:53 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Mon, 15 Mar 2021 21:28:56 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:32:58+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615831378numbers-sample.csv
+Mon, 15 Mar 2021 21:33:03 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:34:10+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615831450numbers-sample.csv
+Mon, 15 Mar 2021 21:34:18 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T21:34:36+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615831476numbers-sample.csv
+2021-03-15T22:09:27+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615833567numbers-sample.csv
+Mon, 15 Mar 2021 22:09:30 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T22:11:29+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615833689numbers-sample.csv
+Mon, 15 Mar 2021 22:11:33 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T22:14:13+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615833853numbers-sample.csv
+Mon, 15 Mar 2021 22:14:16 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-15T22:39:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615835378numbers-sample.csv
+Mon, 15 Mar 2021 22:39:42 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T14:08:45+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615891125numbers-sample.csv
+Tue, 16 Mar 2021 14:08:49 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Tue, 16 Mar 2021 14:09:00 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T14:59:06+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 14:59:09 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T14:59:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 14:59:21 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers86
+2021-03-16T14:59:30+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 14:59:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers87
+Tue, 16 Mar 2021 14:59:32 +0330 -- User pressed -1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers87
+Tue, 16 Mar 2021 14:59:38 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers86
+2021-03-16T14:59:42+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 14:59:43 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers88
+Tue, 16 Mar 2021 14:59:43 +0330 -- User pressed -1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers88
+2021-03-16T14:59:54+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 14:59:56 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers89
+Tue, 16 Mar 2021 14:59:56 +0330 -- User pressed -1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers89
+2021-03-16T15:00:06+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 15:00:07 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers90
+Tue, 16 Mar 2021 15:00:07 +0330 -- User pressed -1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers90
+2021-03-16T15:00:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894146numbers-sample.csv
+Tue, 16 Mar 2021 15:00:20 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers91
+Tue, 16 Mar 2021 15:00:20 +0330 -- User pressed -1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers91
+2021-03-16T15:02:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:02:33 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T15:02:43+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:02:45 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Tue, 16 Mar 2021 15:02:50 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T15:02:55+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+2021-03-16T15:03:07+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:03:08 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T15:03:19+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:03:21 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Tue, 16 Mar 2021 15:03:25 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T15:03:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:03:35 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T15:03:43+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615894351numbers-sample.csv
+Tue, 16 Mar 2021 15:03:47 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Tue, 16 Mar 2021 15:03:52 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Tue, 16 Mar 2021 15:04:04 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-16T17:15:46+03:30 -- Call file to 109017385757 created -- CSV file: /var/www/html/callblaster/files/1615902346numbers-sample.csv
+2021-03-17T12:49:39+03:30 -- Call file to 109017385757 created -- CSV file: /var/www/html/callblaster/files/1615972779numbers-sample.csv
+2021-03-17T12:51:27+03:30 -- Call file to 109033701227 created -- CSV file: /var/www/html/callblaster/files/1615972887numbers-sample.csv
+2021-03-17T12:52:14+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1615972934numbers-sample.csv
+Wed, 17 Mar 2021 12:52:24 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-17T12:54:51+03:30 -- Call file to 109017385757 created -- CSV file: /var/www/html/callblaster/files/1615973091numbers-sample.csv
+2021-03-17T12:55:38+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1615973138numbers-sample.csv
+Wed, 17 Mar 2021 12:56:00 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:20:52+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097052numbers-sample.csv
+Thu, 18 Mar 2021 23:20:56 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:21:04+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097052numbers-sample.csv
+Thu, 18 Mar 2021 23:21:11 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:21:13 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:21:16+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097052numbers-sample.csv
+Thu, 18 Mar 2021 23:21:18 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:21:28 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:21:28+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097052numbers-sample.csv
+Thu, 18 Mar 2021 23:21:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:21:35 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:21:40+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097052numbers-sample.csv
+Thu, 18 Mar 2021 23:21:42 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:21:50 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:33:42+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097822numbers-sample.csv
+2021-03-18T23:33:54+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097822numbers-sample.csv
+2021-03-18T23:34:06+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097822numbers-sample.csv
+Thu, 18 Mar 2021 23:34:07 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:34:10 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:34:18+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097822numbers-sample.csv
+Thu, 18 Mar 2021 23:34:21 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:34:22 +0330 -- User pressed 1 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:34:30+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616097822numbers-sample.csv
+Thu, 18 Mar 2021 23:34:34 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:34:51 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:39:57+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098197numbers-sample.csv
+2021-03-18T23:40:02+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098197numbers-sample.csv
+2021-03-18T23:40:07+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098197numbers-sample.csv
+Thu, 18 Mar 2021 23:40:08 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:40:12+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098197numbers-sample.csv
+Thu, 18 Mar 2021 23:40:13 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:40:17+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098197numbers-sample.csv
+Thu, 18 Mar 2021 23:40:18 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:40:26 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:40:31 +0330 -- User pressed  -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:40:59+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098259numbers-sample.csv
+2021-03-18T23:41:09+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098259numbers-sample.csv
+2021-03-18T23:41:19+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098259numbers-sample.csv
+2021-03-18T23:41:29+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098259numbers-sample.csv
+Thu, 18 Mar 2021 23:41:30 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:41:32 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:41:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098259numbers-sample.csv
+Thu, 18 Mar 2021 23:41:41 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+Thu, 18 Mar 2021 23:41:43 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:42:01+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098321numbers-sample.csv
+2021-03-18T23:42:11+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098321numbers-sample.csv
+2021-03-18T23:42:21+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098321numbers-sample.csv
+2021-03-18T23:42:31+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098321numbers-sample.csv
+Thu, 18 Mar 2021 23:42:32 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/testers85
+2021-03-18T23:42:41+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616098321numbers-sample.csv
+2021-03-19T22:49:22+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1616181562numbers-sample.csv
+Fri, 19 Mar 2021 22:49:32 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/eyd
+Fri, 19 Mar 2021 22:51:31 +0330 -- User pressed  -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-03-19T22:52:34+03:30 -- Call file to 109184378020 created -- CSV file: /var/www/html/callblaster/files/1616181754numbers-sample.csv
+2021-03-21T14:05:39+03:30 -- Call file to 1512 created -- CSV file: /var/www/html/callblaster/files/1616322939numbers-sample.csv
+Sun, 21 Mar 2021 14:05:42 +0330 -- Call in progress -- Number:512  -- Audio:/var/www/html/callblaster/audio/eyd
+Sun, 21 Mar 2021 14:05:44 +0330 -- User pressed 2 -- Number:512  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-03-21T14:06:43+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1616323003numbers-sample.csv
+2021-03-21T14:15:01+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1616323501numbers-sample.csv
+2021-03-21T14:56:29+03:30 -- Call file to 109183674728 created -- CSV file: /var/www/html/callblaster/files/1616325989numbers-sample.csv
+Sun, 21 Mar 2021 14:56:45 +0330 -- Call in progress -- Number:09183674728  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-03-21T17:12:21+03:30 -- Call file to 109128451714 created -- CSV file: /var/www/html/callblaster/files/1616334141numbers-sample.csv
+2021-03-21T17:14:45+03:30 -- Call file to 109123871977 created -- CSV file: /var/www/html/callblaster/files/1616334141numbers-sample.csv
+Sun, 21 Mar 2021 17:14:59 +0330 -- Call in progress -- Number:09123871977  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-03-21T17:17:10+03:30 -- Call file to 109186979815 created -- CSV file: /var/www/html/callblaster/files/1616334141numbers-sample.csv
+2021-03-21T17:19:34+03:30 -- Call file to 109352421558 created -- CSV file: /var/www/html/callblaster/files/1616334141numbers-sample.csv
+2021-03-21T17:21:13+03:30 -- Call file to 109186979815 created -- CSV file: /var/www/html/callblaster/files/1616334673numbers-sample.csv
+Sun, 21 Mar 2021 17:21:31 +0330 -- Call in progress -- Number:09186979815  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:30:54+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638176454numbers-sample.csv
+Mon, 29 Nov 2021 12:30:56 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 12:30:59 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:34:40+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638176679numbers-sample.csv
+Mon, 29 Nov 2021 12:34:45 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:37:36+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638176856numbers-sample.csv
+Mon, 29 Nov 2021 12:37:40 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:40:00+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638176856numbers-sample.csv
+Mon, 29 Nov 2021 12:40:04 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:42:24+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638176856numbers-sample.csv
+Mon, 29 Nov 2021 12:42:27 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:43:26+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177206numbers-sample.csv
+2021-11-29T12:43:36+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177206numbers-sample.csv
+2021-11-29T12:43:46+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177206numbers-sample.csv
+Mon, 29 Nov 2021 12:43:48 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:44:10+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177250numbers-sample.csv
+2021-11-29T12:44:20+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177250numbers-sample.csv
+Mon, 29 Nov 2021 12:44:24 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T12:44:30+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638177250numbers-sample.csv
+Mon, 29 Nov 2021 12:44:33 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 12:46:24 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:22:22+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186742numbers-sample.csv
+Mon, 29 Nov 2021 15:22:26 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:22:32+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186742numbers-sample.csv
+Mon, 29 Nov 2021 15:22:34 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:22:42+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186742numbers-sample.csv
+Mon, 29 Nov 2021 15:22:45 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:23:39+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186819numbers-sample.csv
+Mon, 29 Nov 2021 15:23:42 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:23:49+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186819numbers-sample.csv
+Mon, 29 Nov 2021 15:23:52 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 15:23:53 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:23:59+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638186819numbers-sample.csv
+Mon, 29 Nov 2021 15:24:01 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:28:28+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638187108numbers-sample.csv
+2021-11-29T15:28:29+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638187108numbers-sample.csv
+Mon, 29 Nov 2021 15:28:32 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 15:28:36 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:48:15+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638188295numbers-sample.csv
+2021-11-29T15:48:16+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638188295numbers-sample.csv
+Mon, 29 Nov 2021 15:48:18 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 15:48:20 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T15:57:12+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638188832numbers-sample.csv
+2021-11-29T15:57:13+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638188832numbers-sample.csv
+Mon, 29 Nov 2021 15:57:17 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+Mon, 29 Nov 2021 15:57:21 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T20:20:02+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638204602numbers-sample.csv
+Mon, 29 Nov 2021 20:20:05 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-29T20:20:09+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638204602numbers-sample.csv
+2021-11-30T12:07:06+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638261426numbers-sample.csv
+Tue, 30 Nov 2021 12:07:11 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T12:07:13+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638261426numbers-sample.csv
+2021-11-30T12:18:43+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638262122numbers-sample.csv
+Tue, 30 Nov 2021 12:18:45 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T12:18:50+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638262122numbers-sample.csv
+2021-11-30T14:53:46+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638271426numbers-sample.csv
+2021-11-30T14:53:53+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638271426numbers-sample.csv
+Tue, 30 Nov 2021 14:53:58 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T15:16:25+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638272785numbers-sample.csv
+2021-11-30T15:16:32+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638272785numbers-sample.csv
+2021-11-30T15:16:52+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638272812numbers-sample.csv
+2021-11-30T15:16:59+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638272812numbers-sample.csv
+2021-11-30T15:17:20+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638272840numbers-sample.csv
+Tue, 30 Nov 2021 15:17:28 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T15:17:40+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638272840numbers-sample.csv
+Tue, 30 Nov 2021 15:17:44 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T15:19:01+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638272941numbers-sample.csv
+2021-11-30T15:19:21+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638272941numbers-sample.csv
+Tue, 30 Nov 2021 15:19:27 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T15:31:35+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638273695numbers-sample.csv
+Tue, 30 Nov 2021 15:31:39 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+Tue, 30 Nov 2021 15:31:41 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T15:31:55+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638273695numbers-sample.csv
+Tue, 30 Nov 2021 15:31:57 +0330 -- Call in progress -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+Tue, 30 Nov 2021 15:31:59 +0330 -- User pressed 1 -- Number:91020  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T20:21:04+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638291064numbers-sample.csv
+Tue, 30 Nov 2021 20:21:07 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/eyd
+2021-11-30T20:21:24+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638291064numbers-sample.csv
+2021-12-03T15:48:34+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638533914numbers-sample.csv
+Fri, 03 Dec 2021 15:48:37 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 03 Dec 2021 15:48:47 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-03T15:48:54+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638533914numbers-sample.csv
+2021-12-03T16:00:32+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638534632numbers-sample.csv
+Fri, 03 Dec 2021 16:00:35 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 03 Dec 2021 16:00:38 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-03T16:00:52+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638534632numbers-sample.csv
+2021-12-04T00:21:03+03:30 -- Call file to 109033710227 created -- CSV file: /var/www/html/callblaster/files/1638564663numbers-sample.csv
+Sat, 04 Dec 2021 00:21:07 +0330 -- Call in progress -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:21:14 +0330 -- User pressed 1 -- Number:09033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-04T00:21:23+03:30 -- Call file to 11999 created -- CSV file: /var/www/html/callblaster/files/1638564663numbers-sample.csv
+Sat, 04 Dec 2021 00:21:26 +0330 -- Call in progress -- Number:1999  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:21:36 +0330 -- User pressed  -- Number:1999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-04T00:23:24+03:30 -- Call file to 19.09034E+11 created -- CSV file: /var/www/html/callblaster/files/1638564804numbers-sample.csv
+2021-12-04T00:23:44+03:30 -- Call file to 11999 created -- CSV file: /var/www/html/callblaster/files/1638564804numbers-sample.csv
+2021-12-04T00:24:19+03:30 -- Call file to 1909033710227 created -- CSV file: /var/www/html/callblaster/files/1638564859numbers-sample.csv
+Sat, 04 Dec 2021 00:24:22 +0330 -- Call in progress -- Number:909033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:24:32 +0330 -- User pressed  -- Number:909033710227  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-04T00:24:39+03:30 -- Call file to 11999 created -- CSV file: /var/www/html/callblaster/files/1638564859numbers-sample.csv
+2021-12-04T00:35:32+03:30 -- Call file to 11020 created -- CSV file: /var/www/html/callblaster/files/1638565532numbers-sample.csv
+2021-12-04T00:35:52+03:30 -- Call file to 11999 created -- CSV file: /var/www/html/callblaster/files/1638565532numbers-sample.csv
+2021-12-04T00:35:57+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638565557numbers-sample.csv
+2021-12-04T00:36:17+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638565557numbers-sample.csv
+Sat, 04 Dec 2021 00:36:27 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:36:30 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-04T00:36:47+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638565607numbers-sample.csv
+2021-12-04T00:37:07+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638565607numbers-sample.csv
+Sat, 04 Dec 2021 00:37:10 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:37:11 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-04T00:37:34+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638565654numbers-sample.csv
+2021-12-04T00:37:54+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638565654numbers-sample.csv
+Sat, 04 Dec 2021 00:37:57 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Sat, 04 Dec 2021 00:37:58 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-06T12:46:47+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638782207numbers-sample.csv
+2021-12-06T12:47:07+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638782207numbers-sample.csv
+Mon, 06 Dec 2021 12:47:11 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Mon, 06 Dec 2021 12:47:18 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-06T12:58:13+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638782893numbers-sample.csv
+2021-12-06T12:58:33+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638782893numbers-sample.csv
+Mon, 06 Dec 2021 12:58:37 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Mon, 06 Dec 2021 12:58:45 +0330 -- User pressed 2 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-06T19:36:48+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638806808numbers-sample.csv
+2021-12-06T19:37:08+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638806808numbers-sample.csv
+Mon, 06 Dec 2021 19:37:15 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2021-12-06T19:39:28+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/callblaster/files/1638806968numbers-sample.csv
+2021-12-06T19:39:48+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/callblaster/files/1638806968numbers-sample.csv
+Mon, 06 Dec 2021 19:39:52 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+Mon, 06 Dec 2021 19:39:59 +0330 -- User pressed 2 -- Number:91999  -- Audio:/var/www/html/callblaster/audio/welcome
+2022-01-16T23:19:07+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16423625470.csv
+Sun, 16 Jan 2022 23:19:10 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-16T23:19:27+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16423625470.csv
+2022-01-16T23:26:05+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16423629650.csv
+Sun, 16 Jan 2022 23:26:08 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Sun, 16 Jan 2022 23:26:10 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-16T23:26:25+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16423629650.csv
+2022-01-17T14:12:31+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424161510.csv
+Mon, 17 Jan 2022 14:12:35 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:12:37 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:12:51+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424161510.csv
+2022-01-17T14:15:07+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424163070.csv
+Mon, 17 Jan 2022 14:15:09 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:15:19 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:15:27+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424163070.csv
+2022-01-17T14:16:03+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424163630.csv
+Mon, 17 Jan 2022 14:16:08 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:16:18 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:16:23+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424163630.csv
+2022-01-17T14:17:36+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424164560.csv
+Mon, 17 Jan 2022 14:17:44 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:17:54 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:17:56+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424164560.csv
+2022-01-17T14:18:55+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424165350.csv
+Mon, 17 Jan 2022 14:19:00 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:19:07 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:19:15+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424165350.csv
+2022-01-17T14:21:43+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424167030.csv
+Mon, 17 Jan 2022 14:21:49 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:22:03+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424167030.csv
+2022-01-17T14:22:45+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424167650.csv
+Mon, 17 Jan 2022 14:22:49 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 14:22:59 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T14:23:05+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424167650.csv
+2022-01-17T23:11:36+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424484960.csv
+Mon, 17 Jan 2022 23:11:42 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 23:11:44 +0330 -- User pressed 1 -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+2022-01-17T23:11:56+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424484960.csv
+2022-01-17T23:15:10+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424487100.csv
+2022-01-17T23:15:30+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424487100.csv
+2022-01-17T23:21:44+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424491040.csv
+2022-01-17T23:21:44+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424491040.csv
+2022-01-17T23:22:32+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424491520.csv
+2022-01-17T23:22:32+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424491520.csv
+2022-01-17T23:22:43+03:30 -- Call file to 191999 created -- CSV file: /var/www/html/pars/files/16424491630.csv
+2022-01-17T23:22:43+03:30 -- Call file to 191020 created -- CSV file: /var/www/html/pars/files/16424491630.csv
+Mon, 17 Jan 2022 23:22:45 +0330 -- Call in progress -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome
+Mon, 17 Jan 2022 23:22:55 +0330 -- User pressed  -- Number:91999  -- Audio:/var/www/html/pars/audio/welcome

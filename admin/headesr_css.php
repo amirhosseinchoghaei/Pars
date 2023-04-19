@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../dist/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="../dist/Ionicons/css/ionicons.min.css">
+<link rel="stylesheet" href="../dist/css/skins/_all-skins.min.css">
+<link rel="stylesheet" href="../plugins/morris/morris.css">
+<link rel="stylesheet" href="../plugins/datepicker/datepicker3.css">
+<link rel="stylesheet" href="../plugins/daterangepicker/daterangepicker-bs3.css">
+<link rel="stylesheet" href="../plugins/datatables/dataTables.bootstrap.css">
+<link rel="stylesheet" href="../plugins/select2/select2.min.css">
+<link rel="stylesheet" href="../dist/css/AdminLTE.css">

@@ -1,0 +1,15 @@
+<script src="../bootstrap/js/bootstrap.min.js"></script>
+<script src="../plugins/chartjs/Chart.min.js"></script>
+<script src="../plugins/fastclick/fastclick.min.js"></script>
+<script src="../dist/js/app.min.js"></script>
+<script src="../plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="../plugins/datatables/dataTables.bootstrap.min.js"></script>
+<script src="../plugins/select2/select2.full.min.js"></script>
+<script src="../plugins/input-mask/jquery.inputmask.js"></script>
+<script src="../plugins/input-mask/jquery.inputmask.date.extensions.js"></script>
+<script src="../plugins/input-mask/jquery.inputmask.extensions.js"></script>
+<script src="../plugins/moment.min.js"></script>
+<script src="../plugins/daterangepicker/daterangepicker.js"></script>
+<script src="../plugins/bootstrap-datetimepicker.min.js"></script>
+<script src="../plugins/iCheck/icheck.min.js"></script>
+ <script src="../dist/js/dataTables.checkboxes.min.js"></script>
