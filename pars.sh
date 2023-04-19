@@ -89,7 +89,7 @@ while true; do
             cd /etc/asterisk/
             echo "[callblaster]" >> extensions.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions.conf
-	    echo "" >> extensions_custom.conf
+	    echo " " >> extensions_custom.conf
             echo "[callblaster]" >> extensions_custom.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions_custom.conf
             sleep .5
@@ -110,9 +110,7 @@ while true; do
             service asterisk restart
             sleep .5
             echo -e "${GREEN}Done ! to visit control pannel URL : [yourip]/pars ${NC}"
-            rm /var/ww/html/pars.zip -y
-	    y
-	    rm /var/ww/html/pars.zip
+            rm -f /var/www/html/pars.zip
             sleep 12.5
             ;;
 
