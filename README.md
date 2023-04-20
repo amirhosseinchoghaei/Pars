@@ -11,6 +11,8 @@ Attention : You should Have a Sip Trunk Number To Use This Script... if you have
 wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && chmod 777 pars.sh && sh pars.sh
 
 ```
+Attention : First Sure What is your Mysql Password if You enter wrong password Script Can't Work
+
 # How to Use ?
 
 open this URL Without https [issabel or elastix ip]/pars
