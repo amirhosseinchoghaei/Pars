@@ -1,7 +1,11 @@
 # Pars Module
-Auto Voice Sender For Astersik Issabel and Elastix
+Auto Call Voice Sender For Astersik Issabel and Elastix
+if you want send a voice to number and play it automaticaly isntall this script with ssh remote on your issabell and elastix 
 
-# Install Service :
+Attention : You should Have a Sip Trunk Number To Use This Script... if you have a gateway analog to digital it not working correctly Just Use Sip Trunk For outgoing calls .
+
+
+# Install Service : ssh remote on issabel or elastix :
 
 ```
 wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && chmod 777 pars.sh && sh pars.sh
