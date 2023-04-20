@@ -7,3 +7,8 @@ Auto Voice Sender For Astersik Issabel and Elastix
 wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && chmod 777 pars.sh && sh pars.sh
 
 ```
+# How to Use ?
+
+open this URL without https [yourip]/pars
+
+![This is an image](https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/ISSABEL-Auto-Dialler.jpg)
