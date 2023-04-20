@@ -19,7 +19,7 @@ then enter the password and see it is correct or not. !
 
 # How to Use ?
 
-open this URL Without https [issabel or elastix ip]/pars
+open this URL **Without https** [issabel or elastix ip]/pars
 
 ![This is an image](https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/ISSABEL-Auto-Dialler.jpg)
 
