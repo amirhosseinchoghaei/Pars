@@ -2,7 +2,7 @@
 Auto Call Voice Sender For Astersik Issabel and Elastix
 if you want send a voice to number and play it automaticaly isntall this script with ssh remote on your issabell and elastix 
 
-Attention : You should Have a Sip Trunk Number To Use This Script... if you have a gateway analog to digital it not working correctly Just Use Sip Trunk For outgoing calls .
+Attention : You should Have a Sip Trunk Number To Use This Script... if you have a gateway analog to digital it not working correctly Just Use Sip Trunk For outgoing calls . For Local Extentions you don't have problem.
 
 
 # Install Service : ssh remote on issabel or elastix :
@@ -21,7 +21,7 @@ open this URL Without https [issabel or elastix ip]/pars
 
 1- Wait Time : Wait for User to Accept Call .(seconds)
 
-2- Interval : Space Between each Calls (seconds) Depended on Sip Trunk How Many Channels Support .
+2- Interval : Space Between each Calls (seconds) Depended on How Many Channels Support your Sip Trunk (multi calls)
 
 3- Caller ID : it's local caller id not matter What you Set ... !
 
@@ -53,3 +53,6 @@ http://192.168.1.150/pars/api.php?action=democall&phone=91999&file=welcome.wav&a
 - Ability to report successful and unsuccessful calls
 - The possibility of multiple simultaneous calls with different messages
 - You can distinguish between active and inactive numbers
+
+
+- Made With Love By : AmirHossein Choghaei
