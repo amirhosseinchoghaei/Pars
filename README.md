@@ -61,4 +61,4 @@ http://192.168.1.150/pars/api.php?action=democall&phone=91999&file=welcome.wav&a
 - You can distinguish between active and inactive numbers
 
 
-- Made With Love By : AmirHossein Choghaei
+>> Made With Love By : AmirHossein Choghaei
