@@ -1,6 +1,6 @@
 # Pars
 
- [ورژن فارسی](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md)
+ [ ورژن فارسی | Persian ](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md)
 
 .
 
