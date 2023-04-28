@@ -64,10 +64,10 @@ while true; do
             sleep .5
             cd /var/www/html/
             sleep .5
-            wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.zip
+            wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/parsfa.zip
             sleep .5
             sleep .5
-            unzip pars.zip
+            unzip parsfa.zip
             sleep .5
             sleep .5
             sleep .5
