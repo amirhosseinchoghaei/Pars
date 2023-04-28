@@ -1,6 +1,6 @@
 # Pars
 
-ورژن فارسی [GitHub Pages](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md).
+ [ورژن فارسی](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md).
 
 
 Auto Call Voice Sender For Astersik Issabel and Elastix
