@@ -1,5 +1,7 @@
 # Pars
 
+ورژن فارسی [GitHub Pages](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md).
+
 
 Auto Call Voice Sender For Astersik Issabel and Elastix
 if you want send a voice to number and play it automaticaly isntall this script with ssh remote on your issabell and elastix 
