@@ -17,7 +17,7 @@
 # برای نصب ماژول این بخش را در سرور ایزابل و یا الستیکس خود اجرا کنید :
 
 ```
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && chmod 777 pars.sh && sh pars.sh
+wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/parsfa.sh && chmod 777 parsfa.sh && sh parsfa.sh
 
 ```
 توجه : مطئن شوید پسورد mysql رو به درستی وارد میکنید در غیر این صورت ماژول دچار مشکل میشود ...
