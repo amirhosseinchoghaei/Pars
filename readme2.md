@@ -14,7 +14,7 @@
 
 
 
-# برای نصب این ماژول این بخش رو در سرور ایزابل و یا الستیکس خود اجرا کنید :
+# برای نصب ماژول این بخش را در سرور ایزابل و یا الستیکس خود اجرا کنید :
 
 ```
 wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && chmod 777 pars.sh && sh pars.sh
