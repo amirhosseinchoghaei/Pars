@@ -27,7 +27,9 @@ wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && 
 
 بعد از نصب ماژول این صفحه را باز کنید حتما باید بدون https باز کنید ترجیها از مرورگری استفاده کنید که تا بحال ایزابل را باز نکرده باشید ....
 
-آدرس وب : 
+آدرس وب :
+.
+
 [http://issabel_or_elastix ip]/pars
 
 ![This is an image](https://pars-space.ir/wp-content/uploads/2022/01/%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D9%85-%D8%B5%D9%88%D8%AA%DB%8C-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B2%D8%A7%D8%A8%D9%84-%D9%88-%D8%A7%D9%84%D8%B3%D8%AA%DB%8C%DA%A9%D8%B311111111111-1498x1536.jpg)
