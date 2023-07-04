@@ -49,7 +49,7 @@ while true; do
 
     case $choice in
     
-                #UPDATE SEVER 
+        #UPDATE SEVER 
         1)
             echo -e "${GREEN}Started ...${NC}" 
             echo ""
