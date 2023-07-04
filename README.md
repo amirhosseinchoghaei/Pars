@@ -19,9 +19,7 @@ wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.sh && 
 ```
 Attention : First Be Sure What is your Mysql Password ! if You enter the Wrong Password Script Can't Work
 
-For Example Befor You Start the installation script Enter This Command : mysql -uroot -p 
 
-then enter the password and see it is correct or not. !
 
 # How to Use ?
 
