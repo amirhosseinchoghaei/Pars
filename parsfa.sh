@@ -49,16 +49,29 @@ while true; do
 
     case $choice in
     
-        #UPDATE SEVER 
+                #UPDATE SEVER 
         1)
             echo -e "${GREEN}Started ...${NC}" 
             echo ""
             echo "Please enter MySQL Root Password: "
             read rootpasswd
+ 	    RESULT=`mysqlshow --user=root --password=${rootpasswd} asterisk| grep -v Wildcard | grep -o asterisk`
+            if [ "$RESULT" == "asterisk" ]; then
+            echo "Password is Correct !"
+     
 	    mysql -uroot -p${rootpasswd} -e "CREATE DATABASE callblaster;"
             mysql -uroot -p${rootpasswd} -e "CREATE USER 'callblaster'@'localhost' IDENTIFIED BY 'callblaster';"
             mysql -uroot -p${rootpasswd} -e "GRANT ALL PRIVILEGES ON callblaster.* TO 'callblaster'@'localhost';"
-            sleep 3.5
+            sleep 3
+
+	    else
+
+            echo "Oh No , MySql Password is Incorrect Try Again"
+            exit 1
+
+            fi
+
+     
             yum install unzip -y
             sleep .5
             sleep .5
