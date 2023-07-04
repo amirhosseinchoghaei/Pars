@@ -124,7 +124,7 @@ while true; do
             sleep 1
             service asterisk restart
             sleep 1
-            echo -e "${GREEN}Done ! to visit control pannel URL : [yourip]/pars ${NC}"
+            echo -e "${GREEN}Control pannel URL : [serverip]/pars ${NC}"
             rm -f /var/www/html/pars.zip
             sleep 12
             ;;
@@ -132,7 +132,7 @@ while true; do
         # EXIT
         2)
             echo ""
-            echo -e "${GREEN}Exiting...${NC}"
+            echo -e "${RED}Exiting...${NC}"
             echo "Exiting program"
             exit 0
             ;;
