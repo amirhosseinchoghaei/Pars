@@ -62,7 +62,7 @@ while true; do
 	    mysql -uroot -p${rootpasswd} -e "CREATE DATABASE callblaster;"
             mysql -uroot -p${rootpasswd} -e "CREATE USER 'callblaster'@'localhost' IDENTIFIED BY 'callblaster';"
             mysql -uroot -p${rootpasswd} -e "GRANT ALL PRIVILEGES ON callblaster.* TO 'callblaster'@'localhost';"
-            sleep 3
+            
 
 	    else
 
@@ -71,7 +71,8 @@ while true; do
 
             fi
 
-     
+            sleep 3
+	    
             yum install unzip -y
             sleep .5
             sleep .5
