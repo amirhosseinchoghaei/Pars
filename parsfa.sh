@@ -122,7 +122,7 @@ while true; do
             sleep .5
             service asterisk restart
             sleep .5
-            echo -e "${GREEN}Done ! to visit control pannel URL : [yourip]/pars ${NC}"
+            echo -e "${GREEN}Control Pannel URL : [ServerIP]/pars ${NC}"
 
             sleep 12.5
             ;;
