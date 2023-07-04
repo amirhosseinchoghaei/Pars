@@ -57,7 +57,7 @@ while true; do
             read rootpasswd
  	    RESULT=`mysqlshow --user=root --password=${rootpasswd} asterisk| grep -v Wildcard | grep -o asterisk`
             if [ "$RESULT" == "asterisk" ]; then
-            echo "Password is Correct !"
+            echo "Afarin Password Doroste D"
      
 	    mysql -uroot -p${rootpasswd} -e "CREATE DATABASE callblaster;"
             mysql -uroot -p${rootpasswd} -e "CREATE USER 'callblaster'@'localhost' IDENTIFIED BY 'callblaster';"
@@ -66,7 +66,7 @@ while true; do
 
 	    else
 
-            echo "Oh No , MySql Password is Incorrect Try Again"
+            echo "Motasefane Paasword Eshtebahe Aziz"
             exit 1
 
             fi
