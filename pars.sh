@@ -62,16 +62,18 @@ while true; do
 	    mysql -uroot -p${rootpasswd} -e "CREATE DATABASE callblaster;"
             mysql -uroot -p${rootpasswd} -e "CREATE USER 'callblaster'@'localhost' IDENTIFIED BY 'callblaster';"
             mysql -uroot -p${rootpasswd} -e "GRANT ALL PRIVILEGES ON callblaster.* TO 'callblaster'@'localhost';"
-            sleep 3
+
+     
 
 	    else
 
-            echo "Oh No , MySql Password is Incorrect Try Again"
+            echo "MySql Password is Incorrect."
             exit 1
 
             fi
-
-              
+ 
+            sleep 3  
+	    
             yum install unzip -y
             sleep 1
             sleep 1
