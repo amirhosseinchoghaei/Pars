@@ -66,7 +66,7 @@ while true; do
 
 	    else
 
-            echo "Motasefane Paasword Eshtebahe Aziz"
+            echo -e "${RED}Motasefane Paasword Eshtebahe Aziz${NC}"
             exit 1
 
             fi
