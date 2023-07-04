@@ -11,14 +11,14 @@ NC='\033[0m' # No Color
  Check if user is root
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root"
-   sleep .5 
+   sleep 1 
    sudo "$0" "$@"
    exit 1
 fi
 
 
 echo "Running as root..."
-sleep .5
+sleep 1
 clear
 
 while true; do
@@ -55,63 +55,76 @@ while true; do
             echo ""
             echo "Please enter MySQL Root Password: "
             read rootpasswd
+ 	    RESULT=`mysqlshow --user=root --password=${rootpasswd} asterisk| grep -v Wildcard | grep -o asterisk`
+            if [ "$RESULT" == "asterisk" ]; then
+            echo "Password is Correct !"
+     
 	    mysql -uroot -p${rootpasswd} -e "CREATE DATABASE callblaster;"
             mysql -uroot -p${rootpasswd} -e "CREATE USER 'callblaster'@'localhost' IDENTIFIED BY 'callblaster';"
             mysql -uroot -p${rootpasswd} -e "GRANT ALL PRIVILEGES ON callblaster.* TO 'callblaster'@'localhost';"
-            sleep 3.5
+            sleep 3
+
+	    else
+
+            echo "Oh No , MySql Password is Incorrect Try Again"
+            exit 1
+
+            fi
+
+              
             yum install unzip -y
-            sleep .5
-            sleep .5
+            sleep 1
+            sleep 1
             cd /var/www/html/
-            sleep .5
+            sleep 1
             wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/pars.zip
-            sleep .5
-            sleep .5
+            sleep 1
+            sleep 1
             unzip pars.zip
-            sleep .5
-            sleep .5
-            sleep .5
-            sleep .5
+            sleep 1
+            sleep 1
+            sleep 1
+            sleep 1
             cd /var/www/html/
-            sleep .5
+            sleep 1
             cd /var/www/html/
-            sleep .5
+            sleep 1
             chmod 777 -R pars/
-            sleep .5
+            sleep 1
             chmod 777 -R pars/
-            sleep .5
+            sleep 1
             chmod 777 -R /var/spool/asterisk
-            sleep .5
+            sleep 1
             chmod 777 -R /var/spool/asterisk
-            sleep .5
+            sleep 1
             cd /etc/asterisk/
-            sleep .5
+            sleep 1
             cd /etc/asterisk/
             echo "[callblaster]" >> extensions.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions.conf
 	    echo " " >> extensions_custom.conf
             echo "[callblaster]" >> extensions_custom.conf
             echo "exten => 333,1,AGI(/var/www/html/pars/callblaster.php)" >> extensions_custom.conf
-            sleep .5
+            sleep 1
             cd /etc/httpd/conf.d/
-            sleep .5
+            sleep 1
             cd /etc/httpd/conf.d/
-            sleep .5
+            sleep 1
             mv /etc/httpd/conf.d/issabel.conf /etc/httpd/conf.d/issabel.conf2
-            sleep .5
+            sleep 1
             mv /etc/httpd/conf.d/elastix.conf /etc/httpd/conf.d/elastix.conf2
-            sleep .5
+            sleep 1
             wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/issabel.conf
-            sleep .5
+            sleep 1
             wget https://raw.githubusercontent.com/amirhosseinchoghaei/Pars/main/elastix.conf
-            sleep .5
+            sleep 1
             service httpd restart
-            sleep .5
+            sleep 1
             service asterisk restart
-            sleep .5
+            sleep 1
             echo -e "${GREEN}Done ! to visit control pannel URL : [yourip]/pars ${NC}"
             rm -f /var/www/html/pars.zip
-            sleep 12.5
+            sleep 12
             ;;
 
         # EXIT
