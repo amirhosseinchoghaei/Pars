@@ -1,10 +1,11 @@
-# Pars
+# Pars Auto Dialler
 
  [ ورژن فارسی | Persian ](https://github.com/amirhosseinchoghaei/Pars/blob/main/readme2.md)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 
 Auto Call Voice Sender For Astersik Issabel and Elastix
@@ -67,4 +68,4 @@ http://192.168.1.150/pars/api.php?action=democall&phone=91999&file=welcome.wav&a
 - You can distinguish between active and inactive numbers
 
 
->> Made With Love By : AmirHossein Choghaei
+💖 Made With Love By : AmirHossein Choghaei
