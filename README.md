@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+overview how its work ?
+
+https://www.youtube.com/watch?v=dAFz2uOFlvI&t=125s&ab_channel=AmirHosseinChoghaei
 
 Auto Call Voice Sender For Astersik Issabel and Elastix
 if you want send a voice to number and play it automaticaly isntall this script with ssh remote on your issabell and elastix 
